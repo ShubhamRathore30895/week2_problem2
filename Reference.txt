@@ -1,0 +1,4 @@
+How a clutch works. (3D Animation).
+https://www.youtube.com/watch?v=6DL0j0eKD8Y
+
+https://in.mathworks.com/help/simulink/slref/building-a-clutch-lock-up-model.html
